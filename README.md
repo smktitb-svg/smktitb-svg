@@ -1,144 +1,186 @@
-<!-- BANNER UTAMA (Warna Sesuai Palet: Biru Elektrik, Hijau Zamrud, & Aksen Kuning Emas) -->
+<!-- HEADER BANNER DENGAN TEMA EMERALD & DARK SLATE (SESUAI WEBSITE IRSYADPROJECT.MY.ID) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1363DF,70:16A34A,100:F59E0B&height=240&section=header&text=Halo,%20Saya%20M.%20Irsyadul%20Ibad%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:059669,100:0F172A&height=250&section=header&text=Halo,%20Saya%20M.%20Irsyadul%20Ibad%20Arrozy%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner Irsyad Project" />
 </p>
 
-<!-- IDENTITAS & TAGLINE GURU / PENDIDIK IT -->
+<!-- IDENTITAS & ROLE SESUAI WEBSITE IRSYADPROJECT.MY.ID -->
+<h2 align="center">
+  ⚡ Irsyad Project ⚡
+</h2>
 <h3 align="center">
-  👨‍🏫 Guru / Pendidik Kejuruan TKJ 🌐 IT Educator & Web Developer
+  👨‍💻 Backend Engineer &bull; 👨‍🏫 Pendidik / Guru TKJ &bull; 🌐 Full Stack Developer
 </h3>
 
 <p align="center">
-  <i>"Mendidik dengan hati, menginspirasi melalui teknologi, dan mencetak generasi digital yang kompeten serta berkarakter."</i>
+  📍 <b>Purwodadi, Grobogan, Jawa Tengah, Indonesia</b>
 </p>
 
-<!-- BADGE MEDIA SOSIAL & KONTAK -->
 <p align="center">
-  <a href="https://github.com/irsyadproject" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-irsyadproject-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <i>"Membangun solusi digital yang inovatif dan berkualitas, menjembatani dunia pendidikan dan industri teknologi."</i>
+</p>
+
+<!-- STATUS KETERSEDIAAN PROYEK -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Tersedia%20untuk%20Freelance%20%26%20Full--Time-10B981?style=for-the-badge&logo=codeforces&logoColor=white" alt="Availability Status" />
+</p>
+
+<!-- BADGE MEDIA SOSIAL & KONTAK RESMI -->
+<p align="center">
+  <a href="https://irsyadproject.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-irsyadproject.my.id-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/IrsyadProject" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-IrsyadProject-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/irsyad-project/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Irsyad--Project-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/irsyadproject.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1363DF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@irsyadproject.my.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/62895330095765" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+62895330095765-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:irsyadproject@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:projectirsyad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-projectirsyad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://blog.irsyadproject.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Irsyad%20Blog-0284C7?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
 </p>
 
 ---
 
-### 👨‍🏫 Tentang Saya (About Me)
+### 📊 Ringkasan Profil & Statistik Kunci
 
-Saya adalah seorang **Guru / Pendidik Kejuruan** di bidang **Teknik Komputer dan Jaringan (TKJ)** sekaligus pengembang teknologi (*tech enthusiast*). Berdedikasi dalam mendampingi peserta didik mengeksplorasi arsitektur jaringan komputer, administrasi server, keamanan siber dasar, serta pengembangan perangkat lunak modern.
-
-* 🏫 **Peran:** Guru Kejuruan TKJ & Pembimbing Lab Komputer / Jaringan
-* 🎓 **Misi Edukasi:** Menghubungkan kurikulum vokasi dengan kebutuhan riil industri teknologi (*Link & Match*).
-* 🔭 **Fokus Bidang:** Infrastruktur Jaringan (MikroTik & Cisco), Administrasi Linux Server, Cloud/Virtualisasi, & Web Development.
-* 📚 **Aktivitas:** Penyusunan modul ajar interaktif, bimbingan praktikum lab, pembinaan LKS (Lomba Kompetensi Siswa), dan eksplorasi open-source.
-* 💬 **Diskusi Terbuka:** Konfigurasi jaringan komputer, manajemen lab sekolah, kurikulum TKJ, Linux SysAdmin, dan pemrograman web.
+<p align="center">
+  <img src="https://img.shields.io/badge/Pengalaman_Mengajar-10+_Tahun-10B981?style=flat-square&logo=google-classroom&logoColor=white" alt="10+ Tahun Mengajar" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pengalaman_Freelance-9+_Tahun-059669?style=flat-square&logo=visual-studio-code&logoColor=white" alt="9+ Tahun Freelance" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total_Project-16+_Selesai-047857?style=flat-square&logo=githubactions&logoColor=white" alt="16+ Project" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sertifikasi_Resmi-15+_Kredensial-F59E0B?style=flat-square&logo=credential&logoColor=white" alt="15+ Sertifikasi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pendidikan-S1_Teknik_Informatika-3B82F6?style=flat-square&logo=academia&logoColor=white" alt="S1 Teknik Informatika" />
+</p>
 
 ---
 
-### 🛠️ Keahlian & Teknologi Pengajaran (Teaching & Tech Stack)
+### 👨‍💻 Tentang Saya (About Me)
 
-Berikut adalah instrumen perangkat keras, perangkat lunak, sistem operasi, serta teknologi yang saya gunakan dalam pengajaran, administrasi sistem, dan pengembangan proyek:
+Saya adalah seorang **Guru Teknik Komputer dan Jaringan (TKJ)** sejak tahun 2016 sekaligus **Freelance Programmer & Backend Engineer** sejak tahun 2017. Selama lebih dari 8-10 tahun, saya membangun karier di dua bidang ini secara paralel, menjembatani dunia pendidikan dan teknologi dengan semangat untuk terus belajar dan berinovasi.
 
-#### 🌐 1. Jaringan Komputer & Infrastruktur
+* 🎓 **Pendidikan:** S1 Teknik Informatika — **STMIK Himsya Semarang** (2016 - 2020)
+* 🏫 **Peran Akademis:** Guru TKJ di SMK Purwodadi, Grobogan (Mendidik & membimbing praktikum lab, administrasi server, dan pemrograman).
+* 💼 **Karier Rekayasa Software:** Backend Engineer (PT. Satu Medis Indonesia - integrasi Satusehat Kemenkes, REST API, Laravel) & Freelance Full Stack Developer.
+* 🛠️ **Teknisi Infrastruktur:** Berpengalaman dalam instalasi & troubleshooting jaringan LAN/WAN, routing MikroTik, server Linux/Windows, Proxmox VE, hingga sistem CCTV/IP-Cam.
+* 💡 **Filosofi:** *"Teknologi dapat memberikan solusi nyata dalam dunia pendidikan dan kehidupan sehari-hari."*
+* 📄 **Curriculum Vitae:** [Download CV Lengkap (PDF)](https://irsyadproject.my.id/CV_by_Profile_Linkedin_Irsyad.pdf)
+
+---
+
+### 🛠️ Keahlian & Teknologi (Tech Stack)
+
+Sesuai dengan portofolio keahlian di [irsyadproject.my.id/about](https://irsyadproject.my.id/about):
+
+#### 💻 1. Bahasa Pemrograman
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-Ahli-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-Baik-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Golang-Baik-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/CSS3-Baik-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-Menengah-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-Dasar-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-Dasar-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-Dasar-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Rust-Mempelajari-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
+</p>
+
+#### ⚡ 2. Kerangka Kerja & Library (Frameworks)
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-Ahli-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter_3%2F4-Ahli-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-Ahli-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vue.js_3-Baik-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React.js-Baik-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-Baik-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Baik-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Express.js-Baik-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-Dasar-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Flutter-Dasar-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+#### 🗄️ 3. Basis Data, DevOps, Server & Jaringan
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-Ahli-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Menengah-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu%2FDebian-Menengah-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-Menengah-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Baik-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/MikroTik_RouterOS-16A34A?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1363DF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Routing_%26_Switching-0A58CA?style=for-the-badge&logo=speedtest&logoColor=white" alt="Routing & Switching" />
-  <img src="https://img.shields.io/badge/Network_Security-F59E0B?style=for-the-badge&logo=auth0&logoColor=white" alt="Network Security" />
-</p>
-
-#### 🐧 2. Server, Virtualisasi & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Debian_Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
-  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Scripting" />
-</p>
-
-#### 💻 3. Web & Software Development
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-#### 📖 4. Media Pembelajaran & Produktivitas
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Moodle_LMS-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle LMS" />
-  <img src="https://img.shields.io/badge/Google_Classroom-0F9D58?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Google Classroom" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/CI%2FCD_%26_Git-Menengah-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Redis-Dasar-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-Dasar-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-Dasar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
-### 📂 Modul Ajar, Portofolio & Proyek Edukasi
+### 📂 Proyek Unggulan (Featured Projects)
 
-Kumpulan materi pembelajaran, modul lab kejuruan, dan repositori proyek yang dikembangkan untuk mendukung pembelajaran siswa:
+Berikut adalah beberapa proyek unggulan yang telah dan sedang dikerjakan (dapat dilihat di [irsyadproject.my.id/projects](https://irsyadproject.my.id/projects)):
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📘 Modul Praktikum Jaringan Komputer</h3>
+      <h3 align="center">📝 Zero Exam</h3>
       <p align="center">
-        Jobsheet dan panduan praktikum lab TKJ berbasis studi kasus: Subnetting, VLAN, Routing Statis & Dinamis, serta DHCP/DNS Server.
+        Aplikasi sistem ujian berbasis komputer (CBT) modern dengan fitur melimpah untuk institusi pendidikan dan sekolah.
       </p>
       <p align="center">
-        <b>Materi:</b> Cisco Packet Tracer, MikroTik, Modul Ajar Kurikulum Merdeka
+        <b>Tech:</b> Laravel 13, Vue.js 3, Filament, PrimeVue
       </p>
       <p align="center">
-        <a href="https://github.com/irsyadproject">📂 Lihat Repositori Materi</a>
+        <a href="https://irsyadproject.my.id/projects/zero-exam">🔍 Detail Proyek</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📡 Manajemen Lab & Hotspot Sekolah</h3>
+      <h3 align="center">🏢 SIMASET / SIAPA CI4</h3>
       <p align="center">
-        Konfigurasi template MikroTik RouterOS untuk manajemen bandwidth (Queue Tree), isolasi jaringan siswa/guru, dan halaman login Hotspot kustom.
+        Sistem Informasi Akuntansi Manajemen Pengelolaan Aset Kantor Kecamatan Limbangan untuk penatausahaan dan inventarisasi aset daerah.
       </p>
       <p align="center">
-        <b>Tools:</b> MikroTik RouterOS, Winbox, HTML/CSS Hotspot Template
+        <b>Tech:</b> CodeIgniter 4, Tailwind CSS, MySQL, Limitless
       </p>
       <p align="center">
-        <a href="https://github.com/irsyadproject">📂 Lihat Proyek MikroTik</a>
+        <a href="https://irsyadproject.my.id/projects/sistem-informasi-akuntansi-pengelolaan-aset-kecamatan-limbangan">🔍 Detail Proyek</a> &bull; <a href="https://simaset.zerotech.my.id/" target="_blank">🌐 Live Demo</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐧 Lab Otomasi Linux Server</h3>
+      <h3 align="center">📁 SIMBER - Notaris &amp; PPAT</h3>
       <p align="center">
-        Kumpulan script shell otomatisasi instalasi layanan server Debian/Ubuntu untuk simulasi ujian praktikum kejuruan (Web, Mail, DNS, Samba).
+        Sistem Informasi Monitoring Berkas Notaris &amp; PPAT terintegrasi untuk melacak progres dokumen hukum dan legalitas klien secara akurat.
       </p>
       <p align="center">
-        <b>Tools:</b> Debian Server, Bash Script, Docker, Proxmox VE
+        <b>Tech:</b> CodeIgniter 3, MySQL, FPDF, Bootstrap 5.3
       </p>
       <p align="center">
-        <a href="https://github.com/irsyadproject">📂 Panduan & Script Server</a>
+        <a href="https://irsyadproject.my.id/projects/sistem-informasi-monitoring-berkas-notaris-ppat">🔍 Detail Proyek</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💻 Sistem Informasi / Aplikasi Web Edukasi</h3>
+      <h3 align="center">🏥 Integrasi API Satusehat</h3>
       <p align="center">
-        Pengembangan aplikasi berbasis web untuk inventaris lab, presensi siswa, atau repositori materi belajar interaktif.
+        Pengembangan sistem backend layanan rekam medis digital dan integrasi interoperabilitas data kesehatan nasional Kemenkes (Satusehat).
       </p>
       <p align="center">
-        <b>Stack:</b> Laravel / PHP, MySQL, Bootstrap/Tailwind, REST API
+        <b>Tech:</b> Laravel, RESTful API, Cron Jobs, MySQL
       </p>
       <p align="center">
-        <a href="https://github.com/irsyadproject">📂 Repositori Aplikasi</a>
+        <a href="https://irsyadproject.my.id/about#work-history">🔍 Riwayat Pekerjaan</a>
       </p>
     </td>
   </tr>
@@ -146,35 +188,53 @@ Kumpulan materi pembelajaran, modul lab kejuruan, dan repositori proyek yang dik
 
 ---
 
-### 🎯 Prinsip & Misi Pendidikan Kejuruan
+### 💼 Perjalanan Karier & Riwayat Pekerjaan
 
-- [x] **Project-Based Learning:** Mengutamakan praktikum berbasis studi kasus nyata dunia industri.
-- [x] **Open Source First:** Mendorong pemanfaatan teknologi sumber terbuka (*Linux & Open Source Software*) bagi siswa.
-- [x] **Literasi Keamanan Digital:** Menanamkan kesadaran etika digital dan keamanan jaringan sejak dini.
-- [/] **Integrasi Cloud & Virtualisasi:** Memodernisasi lingkungan lab dengan teknologi virtualisasi dan container (*Sedang Berjalan*).
-- [ ] **Program Inkubasi & Sertifikasi:** Mempersiapkan siswa meraih sertifikasi kompetensi industri (MTCNA / BNSP).
-
----
-
-### 📊 Statistik GitHub (@irsyadproject)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irsyadproject&show_icons=true&bg_color=0d1117&title_color=1363df&icon_color=16a34a&text_color=e2e8f0&border_color=1363df&hide_border=false" alt="Statistik GitHub irsyadproject" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadproject&layout=compact&bg_color=0d1117&title_color=1363df&text_color=e2e8f0&border_color=16a34a&hide_border=false" alt="Top Bahasa irsyadproject" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irsyadproject&background=0d1117&border=1363df&stroke=1363df&ring=16a34a&fire=f59e0b&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=16a34a&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak irsyadproject" />
-</p>
+```mermaid
+timeline
+    title Riwayat Karier M. Irsyadul Ibad Arrozy
+    2015 - 2016 : Teknisi Komputer & Laptop di LS Computer Purwodadi
+    2016 - Sekarang : Guru Teknik Komputer & Jaringan (SMK di Purwodadi)
+    2017 - Sekarang : Freelance Programmer & Full Stack Web Developer
+    2018 - Sekarang : Teknisi Jaringan & Komputer (Instalasi LAN/WAN, Server, CCTV)
+    2024 : Backend Engineer di PT. Satu Medis Indonesia (Semarang)
+```
 
 ---
 
-<!-- FOOTER DENGAN GELOMBANG WARNA PALET -->
+### 📜 Sertifikasi & Lisensi Profesional (Terverifikasi)
+
+Beberapa dari **15+ sertifikasi resmi** yang tercatat di portofolio:
+
+* 🐍 **Memulai Pemrograman dengan Python** — *Dicoding Indonesia*
+* 🤖 **IBM Applied AI Professional Certificate** — *IBM & Coursera*
+* 🛡️ **Information Security Foundations** — *LinkedIn Learning*
+* 🎓 **Generative AI untuk Pendidikan** (Micro Skill) — *Digital Talent Scholarship (Kominfo)*
+* 🔐 **Keamanan Informasi** (Micro Skill) — *Digital Talent Scholarship (Kominfo)*
+* 🚀 **IT Skill Booster Laravel Episode 1** — *Pijar Camp*
+* 🌐 **Belajar Dasar Pemrograman Web & Belajar Membuat Aplikasi Kognitif** — *Dicoding Indonesia*
+
+---
+
+### 📈 Statistik GitHub (@IrsyadProject)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,70:1363DF,100:F59E0B&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IrsyadProject&show_icons=true&bg_color=0f172a&title_color=34d399&icon_color=10b981&text_color=cbd5e1&border_color=10b981&hide_border=false" alt="Statistik GitHub Irsyad Project" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrsyadProject&layout=compact&bg_color=0f172a&title_color=34d399&text_color=cbd5e1&border_color=10b981&hide_border=false" alt="Top Bahasa Irsyad Project" width="48%" />
 </p>
 
 <p align="center">
-  <b>Tut Wuri Handayani 🚀 Berbagi Ilmu, Menginspirasi Masa Depan</b><br>
-  <i>Dikelola oleh <a href="https://github.com/irsyadproject">M. Irsyadul Ibad (@irsyadproject)</a> — Pendidik & Pegiat Teknologi</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrsyadProject&background=0f172a&border=10b981&stroke=10b981&ring=34d399&fire=f59e0b&currStreakNum=ffffff&sideNums=cbd5e1&currStreakLabel=34d399&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub Streak Irsyad Project" />
+</p>
+
+---
+
+<!-- FOOTER ELEGAN DENGAN MOTTO & TAUTAN RESMI -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:059669,100:10B981&height=120&section=footer" width="100%" alt="Footer Banner" />
+</p>
+
+<p align="center">
+  <b>&copy; 2025 - 2026 <a href="https://irsyadproject.my.id">Irsyad Project</a> &bull; M. Irsyadul Ibad Arrozy</b><br>
+  <i>"Algoritma dan barisan kode yang baik akan selalu menjadi dokumentasi dan warisannya sendiri."</i>
 </p>
