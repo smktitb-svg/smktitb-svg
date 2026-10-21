@@ -17,7 +17,7 @@
   <a href="https://github.com/irsyadproject" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-irsyadproject-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/irsyadproject" target="_blank">
+  <a href="https://instagram.com/irsyadproject.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1363DF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
